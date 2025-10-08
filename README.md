@@ -87,6 +87,3 @@ The design uses warm, cream and brown tones to reflect a cozy, welcoming bakery 
 
 ---
 
-If you want, I can also **create a polished version with instructions for folder structure and example screenshots** for a more professional README.
-
-Do you want me to do that?
