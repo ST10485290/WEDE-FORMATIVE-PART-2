@@ -88,7 +88,6 @@ The design uses warm, cream and brown tones to reflect a cozy, welcoming bakery 
 ---
 REFRENCES
 
-##  How to create a website using CSS (with references)
 
 * **DigitalOcean (2020)**
   *How to Build a Website with CSS*.
