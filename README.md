@@ -86,4 +86,44 @@ The design uses warm, cream and brown tones to reflect a cozy, welcoming bakery 
 * Enhance accessibility and animations.
 
 ---
+REFRENCES
+
+##  How to create a website using CSS (with references)
+
+* **DigitalOcean (2020)**
+  *How to Build a Website with CSS*.
+  Available at: [https://www.digitalocean.com/community/tutorial-series/how-to-build-a-website-with-css](https://www.digitalocean.com/community/tutorial-series/how-to-build-a-website-with-css)
+  (Accessed: 3 October 2025)
+
+
+
+* **Tupuy (n.d.)**
+  *How to Make a Website Using HTML and CSS Step by Step*.
+  Available at: [https://design.tupuy.com/en/how-to-make-a-website-using-html-and-css-step-by-step.html](https://design.tupuy.com/en/how-to-make-a-website-using-html-and-css-step-by-step.html)
+  (Accessed: 3 October 2025)
+
+* **CodeWithHarry (n.d.)**
+  *Your First CSS Website*.
+  Available at: [https://www.codewithharry.com/tutorial/css-your-first-website](https://www.codewithharry.com/tutorial/css-your-first-website)
+  (Accessed: 3 October 2025)
+
+
+
+---
+
+##  Picture references (cakes, breads, muffins)
+
+* **Bunsen Burner Bakery (n.d.)**
+  *Banana Bread Muffins* [online image].
+  Available at: [https://www.bunsenburnerbakery.com/banana-bread-muffins/](https://www.bunsenburnerbakery.com/banana-bread-muffins/)
+  (Accessed: 5 October 2025)
+
+  
+
+* **Delish (n.d.)**
+  *Best Monkey Bread Muffins – How to Make Monkey Bread Muffins* [online image].
+  Available at: [https://www.delish.com/cooking/recipe-ideas/a19885346/monkey-bread-muffins-recipe/](https://www.delish.com/cooking/recipe-ideas/a19885346/monkey-bread-muffins-recipe/)
+  (Accessed: 5 October 2025)
+
+---
 
